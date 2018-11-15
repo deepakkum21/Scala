@@ -9,7 +9,7 @@ object StringDemo {
     println(str1.length());
     
     // string format
-    println("(%f --- %s --- %d)".format(num1,str1,num2))
+    println("(%f --- %s --- %d)".format(num1,str1,num2));
     printf("(%f --- %s --- %d)",num1,str1,num2);
   }
 }
