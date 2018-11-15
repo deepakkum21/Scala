@@ -10,6 +10,6 @@ object StringDemo {
     
     // string format
     println("(%f --- %s --- %d)".format(num1,str1,num2))
-    printf("(%f --- %s --- %d)",num1,str1,num2)
+    printf("(%f --- %s --- %d)",num1,str1,num2);
   }
 }
